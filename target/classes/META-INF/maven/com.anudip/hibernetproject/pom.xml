@@ -3,4 +3,11 @@
   <groupId>com.anudip</groupId>
   <artifactId>hibernetproject</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>com.Employee</groupId>
+  		<artifactId>employeedemojpa</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
